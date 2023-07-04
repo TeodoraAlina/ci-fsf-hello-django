@@ -30,7 +30,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['8000-teodoraalina-ci-fsf-hell-3nhk0jom33.us2.codeanyapp.com',
                  'local host',
-                 'https://teoalina-django-todo-app-445fecefba86.herokuapp.com/']
+                 'teoalina-django-todo-app-445fecefba86.herokuapp.com/']
 
 
 # Application definition
