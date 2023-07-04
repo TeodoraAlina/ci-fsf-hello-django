@@ -8,6 +8,7 @@ if os.path.exists("env.py"):
 
 print(os.getenv("envpy_test"))
 
+
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'django_todo.settings')
