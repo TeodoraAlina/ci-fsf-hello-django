@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-@^!myd1poxicx%+6rh&^#7gsj7t(a_5&+17^gsjo$m!-j)r1@q
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-teodoraalina-ci-fsf-hell-3nhk0jom33.us2.codeanyapp.com',
-                 'local host']
+                 'local host', 'https://teoalina-django-todo-app-445fecefba86.herokuapp.com/']
 
 
 # Application definition
